@@ -1,5 +1,5 @@
 //The Below Program is for Binary Search Implementation in c using VS CODE
-//------3rd sem AIML-1----------BY HIMANSHU SINGH (054)---------------//
+//-------------BY HIMANSHU SINGH---------------//
 #include<Stdio.h>
 #include <stdlib.h>
  int main ()
