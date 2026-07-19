@@ -1,28 +1,16 @@
-<div align="center">
+<div align="left">
 
-#  100 C & C++ Programming Collection
+# 100 C & C++ Programming Collection
 
-### *A Complete Collection of C & C++ Programs for Learning, Practice, Data Structures, Algorithms, STL and Real-World Console Applications*
-
-<br>
-
-![C](https://img.shields.io/badge/C-Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Programs](https://img.shields.io/badge/Programs-100-success?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+### *A Complete Collection of C & C++ Programs, Data Structures, Algorithms & Mini Projects*
 
 <br>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/HimanshuS19/Data-Structure-Basic-Programming-Using-C-Cpp?style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/HimanshuS19/Data-Structure-Basic-Programming-Using-C-Cpp?style=flat-square)
-
-![GitHub language count](https://img.shields.io/github/languages/count/HimanshuS19/Data-Structure-Basic-Programming-Using-C-Cpp?style=flat-square)
-
-![GitHub top language](https://img.shields.io/github/languages/top/HimanshuS19/Data-Structure-Basic-Programming-Using-C-Cpp?style=flat-square)
-
-</div>
 
 ---
 
@@ -1041,13 +1029,13 @@ I enjoy learning new technologies, solving programming problems, and creating pr
 <img src="https://img.shields.io/badge/GitHub-HimanshuS19-181717?style=for-the-badge&logo=github">
 </a>
 
-<!-- Replace with your LinkedIn profile -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+
+<a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/himanshu-singh-tech192005/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- Replace with your Gmail -->
-<a href="mailto:YOUR_EMAIL@gmail.com">
+
+<a href="mailto:himanshusingh192005@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
